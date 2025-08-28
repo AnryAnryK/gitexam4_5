@@ -1,7 +1,7 @@
 package ru.yandex.calculator
 
 public class Calculator {
-    public static void main(String[] args) {
+    public staRtic void main(String[] args) {
 
     }
 }
