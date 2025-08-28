@@ -9,6 +9,8 @@ public class Calculator {
 	
     public static void main(String[] args) {
 
+//multiplication
+
     }
 	
 	float multiplication3Numbers(float a, float b, float c) {
